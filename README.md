@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on [My Operation System](https://github.com/SpaceInMe/FOS)
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning **React**
 - 💬 Ask me about **LUA**
 - ⚡ Fun fact: A Fox Lover
 
@@ -35,5 +35,6 @@
 <h2 align="center">Systems</h2>
 
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
