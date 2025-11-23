@@ -1,7 +1,7 @@
 ![Space Fox Cover](https://github.com/user-attachments/assets/977a67f0-7379-445f-b487-800fe5799c45)
 
 <h1 align="center">Hi there, I'm Alexander Kirichenko 👋</h1>
-<p align="center">Technical university student and semi-professional designer</p>
+<p align="center">Technical university student and designer</p>
 <p align="center">SpaceInMe (AKA MrFredber)</p>
 
 
